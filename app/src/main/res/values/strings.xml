@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cake O\'Clock</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_p1">Bakery</string>
+
+    <string-array name="Menu">
+        <item>Cakes</item>
+        <item>Pastries</item>
+        <item>Cookies</item>
+        <item>Snacks</item>
+        <item>Drinks</item>
+    </string-array>
+    <string name="title_activity_p2">p2</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_display_menu">DisplayMenuActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detaildisplay">Detaildisplay</string>
+    <string name="title_activity_confirmation_activity">confirmation_activity</string>
+    <string name="title_activity_final">FinalActivity</string>
+</resources>
